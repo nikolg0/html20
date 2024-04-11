@@ -1,0 +1,38 @@
+body {
+  background-color: rgb(149, 117, 178);
+}
+h1 {
+  color: darkred;
+  background-color: rgb(110, 19, 195);
+}
+.first {
+  color: darkgreen;
+  background-color: aquamarine;
+}
+.second {
+  color: firebrick;
+  background-color: rgb(127, 255, 136);
+}
+h2 {
+  color: dodgerblue;
+  background-color: rgb(197, 56, 169);
+}
+ul {
+  background-color: rgb(165, 42, 56);
+}
+
+.one {
+  color: rgb(34, 34, 224);
+}
+.two {
+  color: chocolate;
+}
+.three {
+  color: chartreuse;
+}
+.four {
+  color: rgb(255, 21, 21);
+}
+.five {
+  color: fuchsia;
+}
